@@ -5,6 +5,7 @@
 .navbar-brand {
     font-family: 'Cedarville Cursive', cursive;
     font-size: 35px;
+    
 }
  
 p {
@@ -15,12 +16,16 @@ p {
 h1{
     font-family: 'Cedarville Cursive', cursive;
     font-family: 'Oswald', sans-serif;
+    color: ivory;
 }
 
 body {
     background-color: gray;
-    background-image: url("https://i.pinimg.com/736x/90/fd/4a/90fd4aa54f0ce939e48f51444a8a3a34.jpg");
+    background-image: url(https://i0.wp.com/www.ecommerce-nation.com/wp-content/uploads/2017/11/Why-You-Should-Choose-Custom-Web-Development-Over-Website-Template-4.png?fit=1000%2C600&ssl=1);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
+
 footer {
     text-align: center;
     font-size: 120%;
@@ -40,6 +45,7 @@ font-family: 'Times New Roman', Times, serif;
 
 #lkb {
     text-align: justify;
+    color: ivory;
 }
 #Pwg {
 
@@ -47,4 +53,11 @@ font-family: 'Times New Roman', Times, serif;
 }
 #Res {
      font-size: 40px;
+     color: black;
+}
+#Con {
+    color: black;
+}
+#dr {
+    font-size: large;
 }
