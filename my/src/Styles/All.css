@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&display=swap');
+
+
+
+.navbar-brand {
+    font-family: 'Cedarville Cursive', cursive;
+    font-size: 35px;
+    
+}
+ 
+p {
+    font-family: 'Cedarville Cursive', cursive;
+    font-size: 35px;
+}
+
+h1{
+    font-family: 'Cedarville Cursive', cursive;
+    font-family: 'Oswald', sans-serif;
+    color: ivory;
+}
+
+body {
+    background-color: gray;
+    background-image: url(https://i0.wp.com/www.ecommerce-nation.com/wp-content/uploads/2017/11/Why-You-Should-Choose-Custom-Web-Development-Over-Website-Template-4.png?fit=1000%2C600&ssl=1);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+footer {
+    text-align: center;
+    font-size: 120%;
+}
+.col-12 img {
+width: 80%;
+margin: 30px;
+
+}
+.info {
+
+font-family: 'Times New Roman', Times, serif;
+}
+.Email {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#lkb {
+    text-align: justify;
+    color: ivory;
+}
+#Pwg {
+
+    text-align: justify;
+}
+#Res {
+     font-size: 40px;
+     color: black;
+}
+#Con {
+    color: black;
+}
+#dr {
+    font-size: large;
+}
