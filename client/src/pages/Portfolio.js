@@ -1,6 +1,7 @@
 import React from 'react'
 import '../Styles/All.css';
 import images from '../images/Screenshot (10).png';
+import Strong from 'react'
 
 
 
